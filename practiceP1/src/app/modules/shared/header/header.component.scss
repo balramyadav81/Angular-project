@@ -1,0 +1,14 @@
+.navbar {
+  background-color: transparent;
+
+  .navbar-collapse {
+    flex-grow: 0;
+    
+  }
+  .nav-link {
+    margin-right: 1rem;
+    span {
+      vertical-align: bottom;
+    }
+  }
+}
